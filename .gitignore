@@ -1,0 +1,15 @@
+#Ignore virtual env and editor setting
+
+.venv/
+.vscode/
+
+# Ignore CSV files
+*.csv
+
+#ignore cashes and temporary files
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pth
+runs/
